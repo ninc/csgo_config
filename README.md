@@ -7,8 +7,10 @@ Based on budi's CS:GO config
 3. Look in the developer console for "autoexec.cfg executed".
 
 
-#Buy binds based on DrZotro: https://steamcommunity.com/sharedfiles/filedetails/?id=160740091
-Numpad
+# Buy binds
+Based on DrZotro: https://steamcommunity.com/sharedfiles/filedetails/?id=160740091
+
+Numpad:
 
 | Numlock       | / DECOY       | *     | - FLASH          |
 |---------------|---------------|-------|------------------|
